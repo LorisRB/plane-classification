@@ -1,1 +1,5 @@
-DATA_DIR: 'content/data'
+DATA_DIR : 'content/data'
+MODELS_DIR : 'content/models'
+IMAGE_WIDTH : 128
+IMAGE_HEIGHT : 128
+IMAGE_DEPTH : 3
